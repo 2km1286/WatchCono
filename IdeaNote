@@ -24,3 +24,9 @@
 ---- 개발환경
 hard : eclipse, oracle / sqldeveloper
 soft : itelij , vue.js , vscode
+
+모바일 환경은 androidDeveloper? 
+혹은 앱에 맞게 화면만 조정?
+
++ vue 와 nodejs를 이용해서 가능함
+후순위
